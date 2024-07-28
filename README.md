@@ -37,7 +37,7 @@ This Python script allows you to download and convert manga chapters into PDF fo
 1. Run the script:
 
    ```bash
-   python manga_scraper.py
+   python Manga-Scraper.py
 
 2. Enter the URL of the manga when prompted.
 
